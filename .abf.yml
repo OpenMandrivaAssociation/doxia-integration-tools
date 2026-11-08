@@ -1,2 +1,4 @@
 sources:
+  doxia-sitetools-2.1.0.tar.gz: ddc1fb35c5f664276b9c22c6506612e36d178c9a
+removed_sources:
   doxia-sitetools-2.0.0.tar.gz: 8b0243e4e05f757c456332fbb2a568f125c96f8b
